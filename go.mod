@@ -1,4 +1,4 @@
-module go-jwt
+module github.com/vitor-moschetta/go-jwt
 
 go 1.20
 
